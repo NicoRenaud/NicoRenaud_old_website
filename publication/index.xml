@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Nicolas Renaud</title>
+    <link>https://nicorenaud.github.io/publication/index.xml</link>
+    <description>Recent content in Publications on Nicolas Renaud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nicolas Renaud</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep-Hole Transfer Leads to Ultrafast Charge Migration in DNA Hairpins</title>
+      <link>https://nicorenaud.github.io/publication/dna_natchem/</link>
+      <pubDate>Mon, 15 Aug 2016 18:17:31 +0100</pubDate>
+      
+      <guid>https://nicorenaud.github.io/publication/dna_natchem/</guid>
+      <description>&lt;p&gt;The paper was highlighted in Nature Chemistry with a &lt;em&gt;News and Views&lt;/em&gt; &lt;a href=&#34;http://www.nature.com/nchem/journal/v8/n11/full/nchem.2655.html?WT.feed_name=subjects_materials-science&#34; target=&#34;_blank&#34;&gt;article&lt;/a&gt; by D. Beratan and D. Waldeck.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanically Controlled Quantum Interference in Individual pi-stacked Dimers</title>
+      <link>https://nicorenaud.github.io/publication/pi-stack/</link>
+      <pubDate>Wed, 27 Jul 2016 17:58:38 +0100</pubDate>
+      
+      <guid>https://nicorenaud.github.io/publication/pi-stack/</guid>
+      <description>&lt;p&gt;The paper was highlighted in &lt;strong&gt;cover&lt;/strong&gt; of Nature Chemistry. I&amp;rsquo;ve personaly designed and created the cover picture using &lt;em&gt;Blender&lt;/em&gt; and a lot of my free time 😄&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://NicoRenaud.github.io/img/nchemcover.jpg&#34; alt=&#34;alternative text for search engines&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tuning the Lattice Parameter of InxZnyP for Highly Luminescent Lattice- matched core/shell Quantum Dots</title>
+      <link>https://nicorenaud.github.io/publication/francesca/</link>
+      <pubDate>Thu, 28 Apr 2016 09:31:06 +0100</pubDate>
+      
+      <guid>https://nicorenaud.github.io/publication/francesca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intermolecular Vibration Modes Speed Up Singlet Fission in Perylenediimide  Crystals </title>
+      <link>https://nicorenaud.github.io/publication/sf/</link>
+      <pubDate>Wed, 28 Jan 2015 09:20:32 +0100</pubDate>
+      
+      <guid>https://nicorenaud.github.io/publication/sf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manipulating Molecular Quantum States with Classical Metal Atom Inputs: Demonstration of a Single Molecule NOR Logic Gate</title>
+      <link>https://nicorenaud.github.io/publication/nor_acsnano/</link>
+      <pubDate>Mon, 28 Feb 2011 10:24:36 +0100</pubDate>
+      
+      <guid>https://nicorenaud.github.io/publication/nor_acsnano/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

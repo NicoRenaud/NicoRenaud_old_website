@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Nicolas Renaud</title>
+    <link>https://nicorenaud.github.io/project/index.xml</link>
+    <description>Recent content in Projects on Nicolas Renaud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Nicolas Renaud</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Molecular Junctions &amp; Machine Learning</title>
+      <link>https://nicorenaud.github.io/project/junction_neural_net/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicorenaud.github.io/project/junction_neural_net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Time Dependent Density Functional Theory </title>
+      <link>https://nicorenaud.github.io/project/rttddft/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicorenaud.github.io/project/rttddft/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
